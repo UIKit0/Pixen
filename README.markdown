@@ -1,27 +1,20 @@
 Pixen
 =====
 
-Welcome to Pixen, a free, open source pixel art editor for Mac OS X!
+Pixen is a pixel art editor for Mac OS X.
 
-**Pixen is now available on the [Mac App Store](http://itunes.apple.com/us/app/pixen/id525180431?mt=12)!**
+Availability
+------------
 
-**Follow us on Twitter [@pixenapp](http://twitter.com/pixenapp)!**
+With the number of Pixen clones in the Mac App Store outnumbering contributions to the project, Pixen is no longer open source. Consequently, the source tree hosted on GitHub is over two years old.
 
-Compiling the Tip-of-Tree Build
--------------------------------
-
-Mac OS X 10.8 and Xcode 4.6 are recommended to compile Pixen.
-
-1. Open Terminal (found in the "Utilities" folder inside your "Applications" folder) and `cd` into a folder in which you'd like to place Pixen's source tree. For example: `cd ~/Desktop`.
-2. Issue the following command to pull the latest source code to Pixen: `git clone git://github.com/Pixen/Pixen.git`
-3. Once the clone completes, open the Xcode project file found in the root directory of the source tree.
-4. Hit the 'Run' button to compile and run a working build of Pixen.
-5. To locate your build of Pixen in the Finder, expand the 'Products' group in Xcode's file navigator.
-6. Right click on 'Pixen.app' and click 'Show in Finder'.
+If you'd like to obtain the latest version of Pixen and support the project, please consider purchasing it in the [Mac App Store](http://itunes.apple.com/us/app/pixen/id525180431?mt=12).
 
 Support
 -------
 
 You may use the [Issues](https://github.com/Pixen/Pixen/issues) page to file bug reports or request features for future releases.
+
+**Follow us on Twitter [@pixenapp](http://twitter.com/pixenapp)!**
 
 Thank you for using Pixen!
