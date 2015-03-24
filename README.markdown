@@ -1,7 +1,7 @@
 Pixen
 =====
 
-Pixen is a pixel art editor for Mac OS X.
+Pixen is a pixel art and animation editor for Mac OS X.
 
 Availability
 ------------
